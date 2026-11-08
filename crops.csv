@@ -1,0 +1,9 @@
+soil,rainfall,temperature,crop
+black,high,hot,cotton
+black,low,hot,chilli
+red,medium,moderate,groundnut
+red,low,hot,mango
+alluvial,high,moderate,rice
+alluvial,medium,moderate,wheat
+sandy,low,hot,watermelon
+sandy,medium,hot,onion
